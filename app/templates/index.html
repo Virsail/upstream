@@ -33,3 +33,11 @@
             <div class="container">
               <div class="card-columns">
                 {% for headlines in headlines %}
+
+
+              <div class="card">
+                <img class="card" src="{{headlines.image}}" alt="Card image cap" size="100px180">
+                <div class="card-body">
+                  <h5 class="card-title">{{headlines.author}}</h5>
+                  <p class="card-text">{{headlines.description}}</p>
+                  <a href="{{headlines.url}}">
