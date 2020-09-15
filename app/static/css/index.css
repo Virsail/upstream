@@ -22,7 +22,6 @@
   height: 94vh;
   font-family: 'Chakra Petch', sans-serif;
   color: darkgrey;
-  overflow-x: hidden;
 }
 
 .img-fluid {
@@ -37,7 +36,6 @@
 .main {
   flex: 1 1 0;
   display: flex;
-  overflow-x: hidden;
   font-family: 'Roboto', sans-serif;
 }
 .container-fluid {
