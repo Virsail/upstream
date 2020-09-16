@@ -3,9 +3,9 @@
 ## Built By [virsail](https://github.com/virsail/)
 
 ## Description
-Habri.. Chap chap is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
+News is an application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
 
-You can view the site at:[Heroku](https://emdeenews.herokuapp.com/)
+You can view the site at:[Heroku]()
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
