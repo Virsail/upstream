@@ -35,8 +35,8 @@ As a user I would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/emdeechege/NewsApi/
-        $ cd NewsPI
+        $ git clone https://github.com/Virsail/News.git
+        $ cd News
 
 ## Running the Application
 * Creating the virtual environment
