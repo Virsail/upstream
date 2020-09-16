@@ -78,3 +78,15 @@ As a user I would like to:
 * Python3.8
 * Flask
 
+## Contact Information 
+Find me on @Ericmbagaya@gmail.com
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+Copyright (c) 2020 mbagaya
+
+
