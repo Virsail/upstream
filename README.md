@@ -28,7 +28,7 @@ As a user I would like to:
 
 ## SetUp / Installation Requirements
 ### Prerequisites
-* python3.6
+* python3.8
 * pip
 * virtualenv
 
