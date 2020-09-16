@@ -7,7 +7,7 @@ News is an application that displays a list of various news sources. On choosing
 
 You can view the site at:[Heroku]()
 
-## User Stories
+## User Story
 These are the behaviours/features that the application implements for use by a user.
 
 As a user I would like to:
