@@ -47,7 +47,7 @@ As a user I would like to:
 
 * Installing Flask and other Modules
 
-        $ python3.6 -m pip install Flask
+        $ pip install Flask
         $ python3.6 -m pip install Flask-Bootstrap
         $ python3.6 -m pip install Flask-Script
 
